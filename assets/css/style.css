@@ -244,7 +244,7 @@ label {
 
 /* 2. header */
 .header-top {
-	background-color: #23cc88;
+	background-color: #273171;
 }
 .header-bottom-area .header-right {
 	display: flex;
@@ -265,7 +265,7 @@ label {
 	color: #fff;
 	margin-right: 15px;
 	padding: 13px 0px;
-	border-left: 1px solid #4fd6a0;
+	border-left: 1px solid #273171;
 	padding-left: 15px;
 }
 .header-top .left li:first-child {
@@ -283,10 +283,10 @@ label {
     list-style: none;
     display: inline-block;
 	padding: 11px 14px;
-	border-right: 1px solid #4fd6a0;
+	border-right: 1px solid #273171;
 }
 .header-top .right li:first-child {
-	border-left: 1px solid #4fd6a0;
+	border-left: 1px solid #273171;
 }
 .header-top .right li a{
 	color: #fff;
@@ -323,7 +323,7 @@ label {
 }
 .main-menu ul li:hover > a,
 .main-menu ul .active > a {
-	color: #23cc88;
+	color: #FE0467;
 }
 .main_menu ul {
 	list-style: none;
