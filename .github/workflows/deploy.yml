@@ -20,5 +20,5 @@ jobs:
         server: ${{ secrets.HOSTINGER_FTP_HOST }}
         username: ${{ secrets.HOSTINGER_FTP_USERNAME }}
         password: ${{ secrets.HOSTINGER_FTP_PASSWORD }}
-        server-dir: /public_html/  # Update if you're using a subfolder
-        local-dir: ./dist/         
+        server-dir: /public_html/  # Or a subfolder if needed
+        local-dir: ./dist/         # Or ./ if not using a build tool
